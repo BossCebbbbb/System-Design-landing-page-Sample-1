@@ -1,0 +1,1 @@
+# Responsive Sample 1
